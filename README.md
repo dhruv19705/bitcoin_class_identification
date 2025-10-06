@@ -62,3 +62,19 @@ pip install pandas numpy scikit-learn lightgbm xgboost catboost joblib
 ![Feature Engineering Pipeline](https://github.com/user-attachments/assets/f1cf362d-5a1b-4b58-997a-c985368a918d)
 
 
+# Bitcoin Transaction Classification using Ensemble Machine Learning
+... [Your existing content] ...
+
+---
+
+## 🖼️ Repository Status
+
+Here are the latest file structure and commits:
+
+![Repository File Structure](images/Screenshot 2025-10-06 174110.png)
+
+![Latest Commits Log](images/Screenshot 2025-10-06 174136.png)
+
+---
+... [Your existing content] ...
+
