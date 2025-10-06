@@ -57,10 +57,8 @@ pip install pandas numpy scikit-learn lightgbm xgboost catboost joblib
 **##**
 ---
 
-```markdown
-<img src="https://github.com/user-attachments/assets/6e82fe44-0766-49a2-a106-a3d7ee0f6717" alt="Model Training Overview" width="800" />
+![Model Training Overview](https://github.com/user-attachments/assets/6e82fe44-8766-49a2-a106-a3d7ee0f6717)
 
-<img src="https://github.com/user-attachments/assets/f1cf362d-5a1b-4b58-997a-c985368a918d" alt="Feature Engineering Pipeline" width="800" />
-
+![Feature Engineering Pipeline](https://github.com/user-attachments/assets/f1cf362d-5a1b-4b58-997a-c985368a918d)
 
 
